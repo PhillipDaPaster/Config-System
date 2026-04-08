@@ -1,4 +1,6 @@
 ## features
+-- https://github.com/spook953/SEOwnedDE-public/blob/main/SEOwnedDE/SEOwnedDE/src/Utils/Config/Config.h 
+i might have stolen it from spooks SEOwnedDE but recoded it for my use case
 
 - automatic save/load for:
   - `bool`
